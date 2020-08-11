@@ -22,7 +22,7 @@ pod 'XYZPod'
 
 ## Author
 
-uuuy, yuxiaoru.123@bytedance.com
+uuuy, 491497634@qq.com
 
 ## License
 
